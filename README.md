@@ -63,7 +63,7 @@ También se utiliza validación cruzada de 5 particiones (5-Fold Cross Validatio
 
 ## 📁 Estructura del proyecto
 
-- `anime_proyecto.ipynb`: Notebook principal con el análisis de datos, preparación, entrenamiento, comparación y evaluación de los modelos.
+- `anime_proyecto_final.ipynb`: Notebook principal con el análisis de datos, preparación, entrenamiento, comparación y evaluación de los modelos.
 
 ## 👥 Proyecto académico
 
